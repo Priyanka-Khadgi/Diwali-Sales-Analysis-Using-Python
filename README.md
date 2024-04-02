@@ -1,4 +1,4 @@
-# Diwali Sales Analysis Using Python
+# DIWALI SALES ANALYSIS USING PYTHON
 
 Diwali, the festival of lights, brings with it not only joy and celebration but also a significant economic impact. As one of the most widely celebrated festivals in India, Diwali sees a surge in consumer spending across various sectors. Understanding and analyzing this data is crucial for businesses to capitalize on the festive season. Exploratory Data Analysis (EDA) serves as a cornerstone in deciphering consumer behavior trends, making it an indispensable tool in the realm of data science. This report delves into the depths of Diwali sales data, employing Python-based EDA techniques to unveil insights that can drive strategic decision-making.
 
@@ -9,14 +9,14 @@ Diwali, the festival of lights, brings with it not only joy and celebration but 
 3. Improved Customer Experience by identifying potential customers across different states, occupations, gender, and age groups.
 4. Improved sales by identifying the most selling product categories and products, which can help to plan inventory and hence meet the demands.
 
-## TOOLS USED
+### TOOLS USED
 Jupyter Notebook, Microsoft Excel
 
-## LIBRARIES USED
+### LIBRARIES USED
 Pandas, NumPy - for data cleaning
 Plotly, Matplotlib, Seaborn - for visualization purposes
 
-## LANGUAGE USED
+### LANGUAGE USED
 Python
 
 # DATASET
